@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+#Images {
+  margin-right: 7px;
+}
+#BioSection {
+  position: relative;
+  top: 60px;
+}
